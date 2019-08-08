@@ -1,3 +1,17 @@
+#porject file
+*/.settings
+/target/
+*.prefs
+.factorypath
+.springBeans
+.classpath
+.project
+/.metadata/
+.idea/
+*.iml
+target/
+rebel.xml
+
 # Compiled class file
 *.class
 
